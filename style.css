@@ -1,0 +1,40 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.banner {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 10px;
+}
+.profile-img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+}
+section {
+  padding: 20px;
+}
+footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+}
